@@ -9,6 +9,7 @@
 ## Установка зависимостей  
 ```bash  
 pip install numpy matplotlib scikit-image  
+```  
 ## Основные функции  
 ### 1. init_image()  
 Загружает тестовое изображение астронавта из scikit-image  
